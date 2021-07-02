@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+h1{
+    color:whitesmoke;
+    background:#242423;
+    margin-top: 0%;
+    padding-top:20px;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.d{
+    color:#eeacac;
+    background-color: #464e4e;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    font-size: 20px;
+    font-family:Calibari;
+
+
+}
